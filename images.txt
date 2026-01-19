@@ -1,1 +1,1 @@
-openmetadata/ingestion:1.11.4
+metabase/metabase:v0.58.2.4
