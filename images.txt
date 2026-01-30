@@ -1,1 +1,2 @@
-metabase/metabase:v0.58.2.4
+mysql:5.7
+redis:5-alpine
