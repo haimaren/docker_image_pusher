@@ -1,1 +1,1 @@
-dyrnq/nfs-subdir-external-provisioner:v4.0.2
+sonarqube:25.1.0.102122-community
