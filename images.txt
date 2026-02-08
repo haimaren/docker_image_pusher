@@ -1,1 +1,1 @@
-rancher/rancher:v2.13
+rancher/rancher:v2.10.2
