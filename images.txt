@@ -1,2 +1,1 @@
-mysql:5.7
-redis:5-alpine
+rancher/rancher:v2.13
