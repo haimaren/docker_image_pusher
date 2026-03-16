@@ -1,1 +1,1 @@
-busybox:stable
+busybox:stable-uclibc
