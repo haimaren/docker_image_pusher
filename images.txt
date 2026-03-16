@@ -1,2 +1,1 @@
-redis:7.4.5
-redis/redis-stack:7.2.0-v10
+nginx:stable-alpine
