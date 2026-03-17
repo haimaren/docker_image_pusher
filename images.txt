@@ -1,1 +1,1 @@
-busybox:stable-musl
+busybox:musl
