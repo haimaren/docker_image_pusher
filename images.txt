@@ -1,1 +1,1 @@
-busybox:musl
+busybox:1.37.0-musl
