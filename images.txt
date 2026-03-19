@@ -1,1 +1,1 @@
-busybox:uclibc
+alpine:latest
