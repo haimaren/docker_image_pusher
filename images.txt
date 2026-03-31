@@ -1,2 +1,1 @@
-bytebase/dbhub:latest
-bytebase/dbhub:0.21.0
+mcp/sonarqube:latest
