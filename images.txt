@@ -1,1 +1,1 @@
-calciumion/new-api:latest
+ghcr.io/volcengine/openviking:v0.3.8
