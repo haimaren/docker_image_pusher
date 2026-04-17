@@ -1,1 +1,1 @@
-mcp/sonarqube:latest
+calciumion/new-api:latest
