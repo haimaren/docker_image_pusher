@@ -1,1 +1,2 @@
-ghcr.io/volcengine/openviking:v0.3.8
+docker.1ms.run/node:20.19.3-alpine
+docker.1ms.run/nginx:alpine
