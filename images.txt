@@ -1,1 +1,1 @@
-pgvector/pgvector:pg14
+python:3.11
