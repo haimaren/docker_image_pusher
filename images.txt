@@ -1,1 +1,1 @@
-n8nio/n8n:2.22.5
+metabase/metabase:v0.62.2.3
