@@ -1,1 +1,1 @@
-sonarqube:26.1.0.118079-community
+svhd/logto:1.41
