@@ -1,1 +1,1 @@
-svhd/logto:1.41
+ghcr.io/obot-platform/obot:v0.23.4
