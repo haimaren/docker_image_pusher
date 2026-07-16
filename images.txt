@@ -1,1 +1,1 @@
-ghcr.io/obot-platform/obot:v0.23.4
+postgres:17.10
