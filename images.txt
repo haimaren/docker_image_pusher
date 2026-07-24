@@ -1,1 +1,1 @@
-ghcr.io/vectorize-io/hindsight-api:0.8.5
+ghcr.io/vectorize-io/hindsight-control-plane:0.8.5
