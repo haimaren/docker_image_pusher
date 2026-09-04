@@ -1,1 +1,2 @@
-ghcr.io/volcengine/openviking:v0.4.17.1
+ghcr.io/multica-ai/multica-web:v0.4.39
+ghcr.io/multica-ai/multica-backend:v0.4.39
