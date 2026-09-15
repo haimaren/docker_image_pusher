@@ -1,1 +1,1 @@
-nousresearch/hermes-agent:v2026.9.7
+metabase/metabase:v0.58.34
