@@ -1,1 +1,1 @@
-metabase/metabase:v0.58.34
+ghcr.io/volcengine/openviking:v0.4.23
