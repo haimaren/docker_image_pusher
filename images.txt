@@ -1,7 +1,1 @@
-openmetadata/server:2.0.5
-openmetadata/ingestion:2.0.5
-openmetadata/ingestion-base:2.0.5
-openmetadata/omjob-operator:2.0.5
-openmetadata/fuseki:6.2.0
-opensearchproject/opensearch:3.5.0
-bitnamilegacy/mysql:8.0.40-debian-12-r5
+nocobase/nocobase:2.2.26
