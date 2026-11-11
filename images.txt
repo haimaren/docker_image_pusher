@@ -1,1 +1,1 @@
-openviking-cn-beijing.cr.volces.com/volcengine/openviking:v0.5.3
+ghcr.io/logto-io/logto:1.46.0
