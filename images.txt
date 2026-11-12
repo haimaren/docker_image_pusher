@@ -1,1 +1,1 @@
-ghcr.io/logto-io/logto:1.46.0
+runzhliu/deepseek-harness:0.2.2-rc.2-r1
