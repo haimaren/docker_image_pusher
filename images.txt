@@ -1,1 +1,1 @@
-runzhliu/deepseek-harness:0.2.2-rc.2-r1
+jfelten/openvpn-docker:1.1.0
