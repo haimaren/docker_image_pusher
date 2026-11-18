@@ -1,2 +1,2 @@
-ghcr.io/multica-ai/multica-backend:v0.10.0
-ghcr.io/multica-ai/multica-web:v0.10.0
+docker.getcollate.io/openmetadata/server:2.0.8
+docker.getcollate.io/openmetadata/ingestion:2.0.8
