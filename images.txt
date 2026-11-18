@@ -1,1 +1,1 @@
-docker.io/openmetadata/ingestion:2.0.8
+docker.io/openmetadata/ingestion-base:2.0.8
