@@ -1,2 +1,1 @@
 docker.getcollate.io/openmetadata/ingestion-base:2.0.8
-alpine:3.20
