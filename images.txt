@@ -1,1 +1,2 @@
 docker.getcollate.io/openmetadata/ingestion-base:2.0.8
+cubejs/cube:v1.8.30
