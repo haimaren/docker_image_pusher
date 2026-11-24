@@ -1,4 +1,4 @@
 docker.getcollate.io/openmetadata/ingestion-base:2.0.8
 cubejs/cube:v1.8.30
-ghcr.io/multica-ai/multica-backend:v0.12.2
-ghcr.io/multica-ai/multica-web:v0.12.2
+ghcr.io/multica-ai/multica-backend:v0.12.1
+ghcr.io/multica-ai/multica-web:v0.12.1
